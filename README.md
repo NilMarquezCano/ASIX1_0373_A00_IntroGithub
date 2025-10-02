@@ -35,3 +35,10 @@ CERRAR ETIQUETA 1
 
 ![alt text](./f67d571c64be87bb19e6d3bfac1b81d7.jpg "Imagen medusa de un archivo")
 
+|Jugador|Equipo|Nombre|
+
+|10|Barça|Yamal|
+
+|14|Aston Martin|Nano|
+
+|33|Red Bull|Max Vertappen|
