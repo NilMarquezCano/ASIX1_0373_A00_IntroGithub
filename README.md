@@ -31,4 +31,7 @@ CERRAR ETIQUETA 1
 <p>Esto es un párrafo</P>
 ```
 
+["Moodle de Joan 23"](https://moodle4.net.fje.edu/my/courses.php "texto adicional")
+
+![alt text](./f67d571c64be87bb19e6d3bfac1b81d7.jpg "Imagen medusa de un archivo")
 
